@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="place_autocomplete_button_padding">16.0dip</dimen>
+    <dimen name="place_autocomplete_progress_size">24.0dip</dimen>
+    <dimen name="place_autocomplete_progress_horizontal_margin">16.0dip</dimen>
+    <dimen name="place_autocomplete_prediction_height">72.0dip</dimen>
+    <dimen name="place_autocomplete_prediction_horizontal_margin">16.0dip</dimen>
+    <dimen name="place_autocomplete_prediction_primary_text">16.0sp</dimen>
+    <dimen name="place_autocomplete_prediction_secondary_text">14.0sp</dimen>
+    <dimen name="place_autocomplete_separator_start">72.0dip</dimen>
+    <dimen name="place_autocomplete_powered_by_google_height">40.0dip</dimen>
+    <dimen name="place_autocomplete_powered_by_google_start">16.0dip</dimen>
+    <dimen name="activity_horizontal_margin">16.0dip</dimen>
+    <dimen name="activity_vertical_margin">16.0dip</dimen>
+</resources>

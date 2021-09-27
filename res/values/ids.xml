@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="cast_notification_id" />
+    <item type="id" name="layout_shortcut" />
+    <item type="id" name="textView_tittle" />
+    <item type="id" name="textView_title" />
+    <item type="id" name="scrollView2" />
+    <item type="id" name="textView_args" />
+    <item type="id" name="cmdArgs" />
+    <item type="id" name="use_zbot" />
+    <item type="id" name="use_yapb" />
+    <item type="id" name="enableczero" />
+    <item type="id" name="adView" />
+    <item type="id" name="button_launch" />
+    <item type="id" name="place_autocomplete_search_button" />
+    <item type="id" name="place_autocomplete_search_input" />
+    <item type="id" name="place_autocomplete_clear_button" />
+    <item type="id" name="place_autocomplete_separator" />
+    <item type="id" name="place_autocomplete_powered_by_google" />
+    <item type="id" name="place_autocomplete_progress" />
+    <item type="id" name="place_autocomplete_prediction_primary_text" />
+    <item type="id" name="place_autocomplete_prediction_secondary_text" />
+</resources>

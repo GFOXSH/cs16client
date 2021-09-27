@@ -1,0 +1,33 @@
+.class public final Lin/celest/xash3d/cs16client/R;
+.super Ljava/lang/Object;
+.source "R.java"
+
+
+# annotations
+.annotation system Ldalvik/annotation/MemberClasses;
+    value = {
+        Lin/celest/xash3d/cs16client/R$styleable;,
+        Lin/celest/xash3d/cs16client/R$style;,
+        Lin/celest/xash3d/cs16client/R$string;,
+        Lin/celest/xash3d/cs16client/R$raw;,
+        Lin/celest/xash3d/cs16client/R$layout;,
+        Lin/celest/xash3d/cs16client/R$integer;,
+        Lin/celest/xash3d/cs16client/R$id;,
+        Lin/celest/xash3d/cs16client/R$drawable;,
+        Lin/celest/xash3d/cs16client/R$dimen;,
+        Lin/celest/xash3d/cs16client/R$color;,
+        Lin/celest/xash3d/cs16client/R$attr;
+    }
+.end annotation
+
+
+# direct methods
+.method public constructor <init>()V
+    .locals 0
+
+    .prologue
+    .line 10
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    return-void
+.end method
