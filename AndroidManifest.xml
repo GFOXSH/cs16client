@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" package="in.celest.xash3d.cs16client" platformBuildVersionCode="23" platformBuildVersionName="6.0-2704002">
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="23" android:compileSdkVersionCodename="6.0-2438415" package="in.celest.xash3d.cs16client" platformBuildVersionCode="23" platformBuildVersionName="6.0-2704002">
     <application android:debuggable="false" android:icon="@drawable/ic_launcher" android:label="@string/app_name">
         <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version"/>
         <activity android:label="@string/app_name" android:name=".LauncherActivity" android:windowSoftInputMode="stateHidden">
